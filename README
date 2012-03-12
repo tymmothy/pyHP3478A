@@ -1,0 +1,8 @@
+This is a Python module for control of Hewlett Packard 3478A bench meters
+over a GPIB interface.  It requires gpib-devices to be installed, and a
+recent (2.6 or newer) version of Python.
+
+To install:
+
+# python setup.py install
+
